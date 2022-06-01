@@ -1,3 +1,2 @@
-# Suite
-
-Simple landing page with vue3 and tailwind css
+# suite
+Simple landing page with html and css
